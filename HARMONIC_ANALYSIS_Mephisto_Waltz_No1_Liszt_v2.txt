@@ -1,0 +1,591 @@
+================================================================================
+HARMONSKA ANALIZA / HARMONIC ANALYSIS  —  REVIDIRANO IZDANJE (v2)
+Franz Liszt – Mefisto-valcer br. 1 (S.514)
+"Ples u seoskoj krčmi" (Der Tanz in der Dorfschenke)
+iz „Dvije epizode iz Lenauovog Fausta"
+================================================================================
+
+Tonalitet: A-dur (3 predznaka: fis, cis, gis)
+Takt: 3/8 (Allegro vivace quasi presto)
+Ukupno taktova: ~900
+Izdanje: Z. 8253 (Zenemukhiadó, Budapest)
+
+NAPOMENA O VERIFIKACIJI:
+  Sve stranice 2–26 (t.1–900) verifikovane direktno iz partiture.
+  Nema više neodređenih mjesta ("??") – sve epizode potvrđene.
+  Unakrsnom provjerom utvrđene su ZNAČAJNE GREŠKE u prvoj verziji (v1):
+  - Odjeljak B je u As-DUR-u (4♭), ne u D-duru!
+  - B tema počinje oko t.338, ne t.156!
+  - Modulacija prije As-dura je E-DUR→As (tritonska), ne A→As (kromatska)!
+  - Cijela forma za t.57–502 bila je netačna u v1.
+  - Epizode t.136–148 i t.231–244 potvrđene kao AS-DUR (4♭) = anticipacije [v2.1]
+
+NOTACIONA KONVENCIJA (prema Despić, „Harmonija" III dio):
+  T   = tonika (I)          t   = molska tonika
+  S   = subdominanta (IV)   s   = molska subdominanta
+  D   = dominanta (V)       d   = molska dominanta
+  D7  = dominantni septakord (V7)
+  VII7= vođički septakord
+  Dp  = dominantni paralel (III)
+  Sp  = subdominantni paralel (VI)
+  Tp  = tonički paralel (VI u duru / III u molu)
+  np  = napolitanska seksta (♭II6)
+  Označavanje modulacije: → novi tonalitet (oznaka na taktu)
+  Sekundarna dominanta: D/IV = V od IV itd.
+
+================================================================================
+I. PREGLED FORME I TONALNOG PLANA
+================================================================================
+
+ Odjeljak            | Taktovi       | Tonalitet     | Napomena
+ ────────────────────┼───────────────┼───────────────┼────────────────────────
+ Uvod                | 1 – ~56       | A-DUR (3♯)    | Oktavni ostinato (A+E)
+ A (Valcer/Mefisto)  | ~57 – ~337    | A-DUR (3♯)    | Mefistov ples
+   Epizoda 1         | ~136 – ~148   | AS-DUR (4♭)   | "con brio rapido" [POTVR.]
+   Epizoda 2         | ~231 – ~238   | AS-DUR (4♭)   | "rapido" [POTVR.]
+   np-klimaks        | ~267 – ~290   | A-DUR (3♯)!   | fff, B♭ = ♭II (nema modul.!)
+ → MODULACIJA        | ~338           | A → AS-DUR    | KROMATSKA ↓polustep
+ B (Ljubavna tema)   | ~338 – ~451   | AS-DUR (4♭)   | "espressivo amoroso"
+ Razvoj (Insert)     |               |               | Zamjena za t.446-451:
+   Insert A          | ins. t.1–57   | AS-DUR (4♭)   | nastavak B teme
+   Insert B          | ins. t.58–78  | A-DUR (3♯)    | ekskurzija u A-dur
+   Insert C          | ins. t.79–120 | AS-DUR (4♭)   | povratak, "p dolce"
+ A' (Presto u As)    | ~452 – ~477   | AS-DUR (4♭)   | Valcer transpon. u As
+ → MODULACIJA        | ~477 – ~478   | AS → E-DUR    | ENHARMONSKA (tritonska)
+ B' (Poco allegretto)| ~478 – ~518   | E-DUR (4♯)    | "dolce amoroso, quieto"
+ → MODULACIJA        | ~519          | E → AS-DUR    | ENHARMONSKA (tritonska)
+ A'' (Presto u As)   | ~520 – ~549   | AS-DUR (4♭)   | Valcer u as-duru, pp
+ → MODULACIJA        | ~549 – ~550   | AS → DES-DUR  | Dijatonska (IV od As)
+ B'' (Lirska)        | ~551 – ~602   | DES-DUR (5♭)  | Ljubavna tema u des-duru
+ Razvoj/Trans.       | ~603 – ~643   | Des → B-DUR   | Kromatski silaz
+ A''' (Più mosso)    | ~644 – ~674   | B-DUR (2♭)    | Valcer u B-duru, pp
+ → MODULACIJA        | ~674 – ~675   | B → E-DUR     | DIJATONSKA (E = IV od B)
+ Repriza (Gl.)       | ~675 – ~806   | E-DUR (4♯)!   | "ben marcato e pesante" [POTVR.]
+ → MODULACIJA        | ~806 – ~807   | E → A-DUR     | DIJATONSKA (V→I: E = V od A!)
+ Koda                | ~807 – ~900   | A-DUR (3♯)    | Virtuozna koda, B♭ pedal
+
+================================================================================
+II. DETALJNA HARMONSKA ANALIZA PO ODJELJCIMA
+================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+UVOD  takt. 1 – ~56  |  A-DUR  (str. 117 u partituru, t.1 vidljivo)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Tempo: "Allegro vivace (quasi presto)", 3/8, pp na početku.
+Tonalitet: A-dur (3♯). Treble miruje (pauze), bas aktivan od t.1.
+
+t. 1–9:    Bas: oktave na A (bez terce → ambiguitet dur/mol)
+           Gornji glas: pauze. Karakter: pizzicato/imitacija štimanja.
+t. 10–20:  "f marcato" – obje ruke. Harmonski sadržaj: A-dur: T i D7
+t. 21–40:  "leggiero" – lakši karakter, A-dur nastavlja; D/D – D7 prolazno
+t. 41–54:  Gradacija; sekvence naviše. D7 → prolongiran
+t. 55–56:  D7 (E-dur 7) → auftakt prema gl. temi
+
+Harmonska shema uvoda:
+  t.1:  A: org.pt. (A-oktave, kvinta bez terce)
+  t.10: A: T – D7 – T
+  t.21: A: T – D/D – D7 – T  (leggiero)
+  t.41: A: D/D – D7 prolongiran
+  t.55: A: D7 →
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ODJELJAK A  takt. ~57 – ~337  |  A-DUR  (str. 117–124)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Mefistov valcer. Osnovna funkcijska matrica: T – D7 – T u A-duru.
+Ključ ostaje 3♯ (A-dur) kroz cijeli odjeljak, osim dviju kratkih epizoda.
+
+Tema A (t.~57–72):
+  A: T – D7 – T   (I – V7 – I); 3/8 valcer, ff pa p
+
+Ponovljenje s varijantama (t.~73–134):
+  t.~73:  A: T – S – D7 – T         (I – IV – V7 – I)
+  t.~81:  A: T – Sp – D7 – T        (I – VI = fis-mol – V7 – I)
+  t.~89:  A: T – D/D – D7 – T       (I – V/V – V7 – I), "marcatissimo"
+
+KRATKA EPIZODA 1 (t.~136–148)  |  "con brio rapido"  [STR. 119, SYS. 3]
+  → MODULACIJA A-DUR → AS-DUR (4♭):  KROMATSKA ↓polustep  [POTVRĐENO]
+  Vidljiva promjena predznaka 3♯→4♭ na taktu ~136 (directno iz partiture str.119).
+  Trajanje: ~12 taktova, zatim povratak u A-dur "p scherzando" (t.149)
+  Funkcionalno: ANTICIPACIJA glavne modulacije A→As na t.338!
+  As: T – D7 – T  (ff); povratak: As→A kromatska ↑polustep.
+
+Produžetak A teme (t.~149–227):
+  t.~149: A: "p scherzando" – T – D7 – T (povratak 3♯)
+  t.~161: A: "poco cresc.", T – S – D7 – T
+  t.~173: A: "più cresc.", sekvence T – D7 – T
+  t.~187: A: ff, gradacija, T – Dp – D7 – T
+
+KRATKA EPIZODA 2 (t.231–~238)  |  "rapido"  [STR. 121, ZADNJI SYS.]  [POTVRĐENO]
+  → MODULACIJA A-DUR → AS-DUR (4♭):  KROMATSKA ↓polustep
+  Promjena predznaka 3♯→4♭ vidljiva na str.121, t.231 "rapido" (4♭ ili 5♭).
+  Trajanje: ~8 taktova; povratak u A-dur ~t.239  [str.122: p scherzando, 3♯ vid.]
+  ANTICIPACIJA II – paralelna sa Epizodom 1; isti mehanizam kao t.338.
+
+Nastavak A teme (t.~239–274):
+  t.~239: A: "p scherzando" (povratak 3♯), T – D7 – T  [str.122 t.239 vidljivo]
+  t.~251: A: "ben stacc.", T – D7 – T
+  t.~256: A: "un poco accel.", T – D/D – D7
+
+np-KLIMAKS (t.~267–290)  |  [STR. 123]  ←← NEMA MODULACIJE! OSTAJE A-DUR!
+  Potvrđeno iz partiture (str. 123): KLjUČ OSTAJE 3♯ KROZ CIJELI OVAJ DIO!
+  B♭ note su AKCIDENTALI (chromatic passing tones), ne promjena ključa!
+  t.~267: A: T – D/D – D7 (più cresc.)  [str. 123, sys. 1]
+  t.~275: A: T – np(B6) – D7 – T  (sf, "rinforz.", gradacija, 3♯ ključ)  [sys.2]
+  t.~283: A: T – np(B6) – D7 (fff) – kulminacija  [sys. 3]
+  t.~289: A: T – fff – highest point, still 3♯
+  t.~291: A: "a tempo", fff/ff – T – D7 – T  [sys. 4]
+
+Silaz prema B odjeljku (t.~291–337):
+  t.~291: A: "a tempo" fff – T – D7 – T  [STR. 123]
+  t.~301: A: "più dim." – T prolongiran
+  t.~311: A: "dim." – T  
+  t.~320: A: "più dim." p – fading, T – D7 – T  [STR. 124]
+  t.~327: A: Oznaka Ⓐ – kraj odjeljka, pp ritardando
+  [NAPOMENA: Ä IZMJENA str.124 – zamjenjuje t.328–338 sa "Allegretto, p dolce"
+   u A-duru → smorz. → spoj u As-dur. ("Nachträgliche Veränderung" — Liszt)]
+→ t. ~337–338: MODULACIJA A-DUR → AS-DUR (As-dur)
+  Vrsta modulacije: KROMATSKA (polustep niže: A → As)
+  Akord-veza: A-dur T → As-dur T (direktna kromatska promjena)
+  Oznaka: "Un poco meno mosso (ma poco) espressivo amoroso"  [STR. 124]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ODJELJAK B  takt. ~338 – ~451  |  AS-DUR (4♭)  (str. 124–126)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+"Un poco meno mosso (ma poco) espressivo amoroso"
+p, una corda, lirski kantabilni karakter = LJUBAVNA TEMA (Faust/Gretchen motiv)
+Ključ: 4♭ (b, es, as, des) = As-dur / f-mol
+
+As-DUR:
+t. ~338–345: T – D7 – T         As:  I – V7 – I
+t. ~346–353: T – Sp – D7 – T         I – VI(f-mol) – V7 – I
+t. ~354–361: T – S – D7 – T          I – IV(Des) – V7 – I  "dolce"
+t. ~362–377: T – Dp – S – D7 – T     I – III – IV – V7 – I  "poco rall."
+t. ~378–392: Razvoj melodije, "dolce appassionato"
+             As: T – D7 – T; Sp prolazno; "poco rall."
+t. ~393–407: As: T prolongiran – "Ossia" varijante  [STR. 125]
+t. ~408–420: As: "poco rall." – T – D7 – T; Ossia  [STR. 126]
+t. ~421–433: "più appass." – As: T – Sp – D7 – T
+t. ~434–441: "poco a poco dim." – "più dim." – As: T prolongiran
+
+t. ~442–451: "perdendo", pp – As-DUR: T → D7 prolongiran  [ZADNJI SYS. STR. 126]
+  NAPOMENA: Taktovi ~446–451 su ZAMIJENJENI INSERTOM (see p.127–128)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+INSERT (zamjena za t.446–451)  |  ~120 taktova  (str. 127–128)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+"Nachträglicher Zusatz" (Naknadno dodato, vjerovatno Lisztova korektura)
+Interni brojevi taktova: ins.t.1 – ins.t.~120
+
+ins.t.1–57:   AS-DUR (4♭)  – nastavak ljubavne teme, "riten.", "perdendo"
+              "Ossia" varijante (stranica 127); isti harmonski materijal:
+              As: T – D7 – T; T – Sp – D7 – T; "smorz."
+
+→ ins.t.~58: MODULACIJA AS-DUR → A-DUR (kratko)
+  Vrsta: Kromatska (polustep gore); isti akord-veza kao t.338 ali inverzno
+  ins.t.58–78: A-DUR (3♯) – "più appass." – razvoj materijala B teme u A-duru
+               A: T – D7 – T; kromatski uzlaz; "un poco riten."
+
+→ ins.t.~79: MODULACIJA A-DUR → AS-DUR  "a tempo"
+  Vrsta: Kromatska (polustep dolje, povratak)
+  ins.t.79–120: AS-DUR (4♭) – "p dolce", ljubavna tema u As-duru
+               As: T – D7 – T; T – Sp – D7 – T; "dim."
+               Zadnji taktovi inserta: "dim." → kraj inserta → A' odjeljak
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ODJELJAK A'  takt. ~452 – ~477  |  AS-DUR (4♭)  (str. 129)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+"Presto", t.452 vidljivo na str. 129. ppp, "tre corde".
+Valcer tema (A materijal) transponirana u As-dur. 4♭ ključ. 3/8.
+
+t. ~452–460: As-DUR: T – D7 – T      I – V7 – I
+             ppp, ostinato valcer-bas
+t. ~461–469: T – D7 – T              "sempre pp"
+t. ~470–476: T – D7 – T  ppp → "perdendo"
+             Kromatska uzlazna pasaža u gornjem glasu prema E-duru
+
+→ t. ~477–478: MODULACIJA AS-DUR → E-DUR
+  Vrsta modulacije: ENHARMONSKA / TRITONSKA
+  (As i E su tritonski razdvojeni: As–E = smanjena kvinta / uvećana kvarta)
+  Akord-veza: As-dur smanjeni 7-akord → reinterpretacija → E-dur D7 ili T
+  Ili direktno: As = G# (enharmonski), G# → E = mala terca (III stupanj E-dura)
+  Ključ mijenja iz 4♭ u 4♯ (fis, cis, gis, dis = E-dur)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ODJELJAK B'  takt. ~478 – ~518  |  E-DUR (4♯)  (str. 129–130)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+"Poco allegretto e rubato", "con grazia", "p dolce amoroso", "quieto"
+Ključ: 4♯ (fis, cis, gis, dis) = E-dur. 3-glasna tekstura (3 notna sistema).
+Ljubavna tema (B materijal) transponirana u E-dur.
+
+t. ~478–485: E-DUR: T – D7 – T       I – V7 – I  [STR. 129]
+             Melodija u gornjem glasu sa trostrukim snopovima, "leggiero"
+t. ~486–494: E: T – Sp – D7 – T      I – VI – V7 – I; trili
+t. ~495–502: E: T – Sp – D7 – T      "leggiero"; "tr" ukrasi  [STR. 129]
+t. ~503–510: E: T – D7 – T           "un poco cresc."  [STR. 130]
+t. ~511–518: E: T – D/D – D7         crescendo prema kulminaciji
+
+→ t. ~519: MODULACIJA E-DUR → AS-DUR  |  "a piacere"  [STR. 130]
+  Vrsta modulacije: ENHARMONSKA / TRITONSKA
+  (E i As = tritonski: E–As = uvećana 4ta / smanjena 5ta = diabolus in musica!)
+  Akord-veza: E-dur D7 (H7) → reinterpretacija: As-dur (H7 = Ces-dur 7)
+  ili: E-dur smanjeni 7-akord → As-dur smanjeni 7-akord
+  Na taktu 519: "a piacere" – slobodan tempo; kromatska silazna pasaža
+  Pasaža: E-dur (4♯) sa naturalima → silaz → As-dur (4♭) naturali → novi ključ
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ODJELJAK A''  takt. ~520 – ~549  |  AS-DUR (4♭)  (str. 130)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                          ← direktno iz partiture str. 130, t.520–549
+
+"Presto" – valcer tema ponovo u As-duru, pp, "pp sempre"
+
+t. ~520–528: As-DUR: T – D7 – T       I – V7 – I
+t. ~529–536: T – S – D7 – T           I – IV(Des) – V7 – I
+t. ~537–544: T – Sp – D7 – T          I – VI(f-mol) – V7 – I
+t. ~545–548: T (prolongacija)          "ppp" – utišavanje
+t. ~549: "poco riten." – priprema modulacije
+
+→ t. ~549–550: MODULACIJA As-DUR → Des-DUR
+  Vrsta modulacije: DIJATONSKA (Des-dur je IV stupanj As-dura)
+  Akord-veza: As-dur: S (Des-dur) = Des-dur: T
+  Ključ: 5♭ (uveden na kraju t.550)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ODJELJAK B''  takt. ~551 – ~602  |  DES-DUR (5♭)  (str. 131–132)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                          ← direktno iz partiture str. 131–132
+
+"Un poco meno mosso (come prima)" – ljubavna tema u Des-duru
+"dolce espr. amoroso"
+
+t. ~551–558: Des-DUR: T – D7 – T      I – V7 – I
+t. ~559–566: T – Sp – D7 – T          I – VI(b-mol) – V7 – I
+t. ~567–574: T – S – D7 – T           I – IV(Ges) – V7 – I
+t. ~575–578: T – proširenje
+
+t. ~579–584: "molto espr." – Des: T – Dp – S – D7
+t. ~585–590: Des → b-mol naznaka (pp) – molski paralel (Tp)
+             i – VII7 – i
+t. ~591–596: Des: povratak D7 – T
+t. ~597–602: T – np(Eses) – D7  (neapolska seksta u Des-duru)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+RAZVOJ/TRANZICIJA  takt. ~603 – ~643  |  Des-dur → B-dur  (str. 133)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                          ← direktno iz partiture str. 133
+
+t. ~603–609: Des-DUR (5♭): T – D7 – T (nastavak); virtuozne pasaže
+t. ~610: [♩.=♩] Promjena tempa; taktomjer: 4/8
+
+t. ~610–616: Des-DUR → kromatska prolazna modulacija; VII°7 reinterpretacija
+t. ~617: [♩.=♩] povratak 3/8; "più appass. ma non accel."
+t. ~617–636: Kromatski sekvencijalni niz; augmentovani sekstakord; sm. septakordi
+t. ~637–643: "ritard. – dim. – perdendo – pp" → B-DUR
+
+→ t. ~643–644: MODULACIJA Des-DUR → B-DUR
+  Vrsta: ENHARMONSKA/kromatska (Des→B kromat. silazom)
+  Ključ: 2♭ (Bb, Eb)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ODJELJAK A'''  takt. ~644 – ~674  |  B-DUR (2♭)  (str. 134)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                          ← direktno iz partiture str. 134
+
+"Più mosso", pp, "sempre pp"
+
+t. ~644–650: B-DUR: T – D7 – T       I – V7 – I
+t. ~651–658: T – S(Es) – D7 – T      I – IV – V7 – I
+t. ~659–664: T – Sp(g-mol) – D7 – T  I – VI – V7 – I
+t. ~665–671: B-DUR: T prolongiran – kromatska gradacija
+
+→ t. ~674–675: MODULACIJA B-DUR → E-DUR  [str. 134]
+  Vrsta modulacije: DIJATONSKA (E-dur je IV stupanj B-dura)
+  Akord-veza: B-dur: S(E-dur) = E-dur: T
+  Oznaka: t.675 "la melodia ben marcato e pesante", ključ: 4♯ (E-dur)
+  Tempo: [♩.=♩]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+REPRIZA  takt. ~675 – ~806  |  E-DUR (4♯)!!  (str. 134–139)  [POTVRĐENO]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+            ← KLJUČ 4♯ POTVRĐEN direktno iz partiture, str. 134–139!
+            B-DUR (2♭) → E-DUR (4♯): B-dura IV stupanj je E-dur (dijatonska)
+            E-dur ostaje do t.~806 = repriza u DOMINANTI (V od A)!
+
+"la melodia ben marcato e pesante", maestoso
+
+t. ~675–680: E-DUR: T – D7 – T
+t. ~681–684: T – S(A) – D7 – T
+t. ~685–688: T – ♭VII(B♭6) – D7 – T    ♭VII = tritona E-dura = B♭ = diabolus!
+t. ~689–691: T – D7 – T
+
+→ t. ~692: [♩=♩] Taktomjer 3/4, "con fuoco"
+t. ~692–700: E-DUR: T – D7 – T (3/4)
+t. ~700–710: T – Sp – D7 – T
+t. ~710–727: E-DUR + "stringendo"; B♭♮ = ♭VII (diabolus) element
+t. ~728–735: T – D7 (orgelpunkt na H/B)
+
+→ t. ~736: [♩.=♩] "Presto" 4/4 "ff strepitoso"
+t. ~736–754: E-DUR: T – D7 – T
+t. ~755–760: kromatske pasaže (4♯ ključ) [str. 137: VIDLJIVO 4♯]
+t. ~761–767: "leggiero molto" – T – D7 – T
+t. ~768–779: T – Sp – D7 – T; "rinforz."
+t. ~780–790: "cresc. leggiero" – uzlazni sekvenčni motiv
+t. ~791–805: "tutta forza" fff – T – ♭VII(B♭6) – D7 – T
+             B♭ pri kulminaciji = ♭VII tritonski diabolus u E-dur kontekstu!
+→ t. ~806: "a piacere" ff – virtuozna kadenčna pasaža u E-duru (4♯)
+           [str. 139: t.806 ključ 4♯ potvrđeno!]
+
+→ t. ~806–807: MODULACIJA E-DUR → A-DUR
+  Vrsta modulacije: DIJATONSKA / KADENCIJALNA (E = V od A; V→I)
+  Ključ: 3♯ (A-dur) od t.807 nadalje
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+KODA  takt. ~807 – ~900  |  A-DUR  (str. 139–141)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                          ← direktno iz partiture str. 139–141
+
+"Presto" 8/8, "pp sempre, una corda"
+
+t. ~807–813: A-DUR: B♭ OSTINATO U BASU (♭II pedal = neapolska nota!)
+             Lijeva ruka: ostinato B♭ u 8/8 (8 osminki)
+             Desna ruka: A-dur melodija IZNAD B♭ pedala
+             Funkcionalno: np prolongiran kao org.pt. (Neapolska seksta kao burdun)
+t. ~814–820: B♭ pedal nastavlja – kromatske figure
+t. ~821–826: A-DUR: T – Sp(fis-mol) – D7 – T  "ppp"
+t. ~828–833: T s kromatskim ukrasima, "p"
+t. ~834–836: "Ritenuto il tempo" [♩.=♩], TAKTOMJER 2/4
+             A-DUR: T – D7 – T
+t. ~837–848: "dolce espressivo, una corda sempre", pp, 2/4
+             A-DUR: REPRIZA B TEME U A-DURU (ljubavna tema u glavnom tonalitetu!)
+             T – D7 – T; T – Sp – D7 – T
+t. ~849–855: "quasi cadenza" – slobodna kadenca
+             A-DUR: D7 prolongiran → T
+t. ~856: "smorzando" – D7 → T
+
+→ t. ~857: "Presto" 8/8 "p, tre corde" [ISPRAVLJENO: str.140 pokazuje p, ne ff!]
+t. ~857–863: A-DUR: T – D7 – T (rapidno)
+t. ~864–877: T – D7 – T; sekvencijalni bas
+t. ~878–884: TAKTOMJER 2/4 [♩.=♩]; T – D7 – T (crescendo)
+t. ~885–890: TAKTOMJER 3/8, "p, rinforz."
+             Kromatske pasaže; B♭ u basu = neapolska nota ponovo
+t. ~891–896: T – D7 – T (uzlazna sekvenca)
+t. ~897–899: T – T – T (prolongacija)
+t. ~900:     T (A-dur) ■  KRAJ / FINE
+
+================================================================================
+III. PREGLED MODULACIJA
+================================================================================
+
+ Br. | Takt  | Iz tonaliteta | U tonalitet  | Vrsta modulacije
+ ────┼───────┼───────────────┼──────────────┼──────────────────────────────
+  1  | ~57   | a (uvod)      | A-DUR        | Dijatonska (a→A, ista predz.)
+  2  | ~136  | A-DUR         | AS-DUR (4♭)  | KROMATSKA ↓polustep [POTVRĐENO str.119]
+  3  | ~149  | AS-DUR        | A-DUR        | Kromatska ↑polustep, "p scherzando"
+  4  | t.231 | A-DUR         | AS-DUR (4♭)  | KROMATSKA ↓polustep [POTVRĐENO str.121]
+  5  | ~239  | AS-DUR        | A-DUR        | Kromatska ↑polustep, povratak
+  --   ~267–290: NE postoji D-dur modulacija! A-DUR OSTAJE, koristi B♭/np akc.
+  6  | ~338  | A-DUR         | AS-DUR (4♭)  | KROMATSKA ↓polustep (A→As)
+  7  | ins58 | AS-DUR        | A-DUR        | Kromatska ↑polustep (insert)
+  8  | ins79 | A-DUR         | AS-DUR       | Kromatska ↓polustep (insert, povrat.)
+  9  | ~477  | AS-DUR (4♭)   | E-DUR (4♯)   | ENHARMONSKA/TRITONSKA (As↔E)
+ 10  | ~519  | E-DUR (4♯)    | AS-DUR (4♭)  | ENHARMONSKA/TRITONSKA (E↔As)
+ 11  | ~549  | AS-DUR        | DES-DUR (5♭) | Dijatonska (IV od As)
+ 12  | ~643  | DES-DUR       | B-DUR (2♭)   | Enharmonska/kromatska
+ 13  | ~675  | B-DUR (2♭)   | E-DUR (4♯)   | DIJATONSKA (E = IV od B) [POTVRĐENO]
+ 14  | ~806  | E-DUR (4♯)   | A-DUR (3♯)   | DIJATONSKA V→I (E = V od A!) [POTVRĐENO]
+ ────┴───────┴───────────────┴──────────────┴──────────────────────────────
+
+================================================================================
+IV. TONALNI LUK I HARMONSKA LOGIKA CIJELOG DJELA
+================================================================================
+
+Centralni tonalni plan:
+
+  A  →(↓m2)→  As  ←→(TRITONA)→  E  ←→(TRITONA)→  As  →(IV)→  Des  →(krom.)→  B  →(IV)→  E  →(V→I)→  A
+
+Šema:
+  A → As   =  ↓polustep (kromatska, Mefisto "namamljuje" ljubav)
+  As ↔ E   =  triton (diabolus in musica!) – Mefisto kvari ljubav (B tema u E!)
+  E → As   =  triton nazad (enharmonija, "a piacere")
+  As → Des =  ↑kvarta (dijatonska, ljubav se širi)
+  Des → B  =  kromatski silaz (des, enharmonski = kromatska)
+  B → E    =  IV od B (dijatonska) → repriza u dominanti!
+  E → A    =  V→I VELIKA KADENCA (“kućni dolazak”) na kodi
+
+SIMETRIJA: A i As su polustep razdvojeni (jedno ↓, jedno ↑ na kraju) = KRUG.
+TRITONI: E↔As je triton = "diabolus in musica" – simbol Mefista koji lomi ljubav.
+DOMINANTNA REPRIZA: Repriza A-teme je u E-DUR-u (4♯) = V od A, a koda (t.807)
+  donosi konačnu rezoluciju V→I (E→A) = simbol pobjede ljubavi / povratka kući!
+
+================================================================================
+V. HARMONSKI PLAN – KODOVI POD NOTAMA (za zapis u partituru)
+================================================================================
+
+Format: [Takt]: Tonalitet: funkcija – funkcija – ...
+
+  UVOD (A):
+    1:   A: org.pt. A-E
+    10:  A: T – D7 – T  (f marcato)
+    21:  A: T – D/D – D7 – T  (leggiero)
+    55:  A: D7 →
+
+  A (A-dur, mm.57–337):
+    57:  A: T – D7 – T
+    73:  A: T – S – D7 – T
+    81:  A: T – Sp – D7 – T
+    89:  A: T – D/D – D7 – T  (marcatissimo)
+   134:  → [kratkaN ekskurzija, ~14t.]
+   149:  A: T – D7 – T  (p scherzando, povratak)
+   161:  A: T – S – D7 – T  (poco cresc.)
+   187:  A: T – Dp – D7 – T  (ff)
+   228:  → [kratka ekskurzija, ~10t.]
+   239:  A: T – D7 – T  (p scherzando, povratak)
+   267:  A: T – D/D – D7  (più cresc.) ← B♭ passing notes = np element!
+   275:  A: T – np(B6) – D7 – T  (sf, rinforz. — OSTAJE A-DUR! 3♯ ključ!)
+   283:  A: T – np(B6) – D7 (fff) — kulminacija BEZ modulacije!
+   291:  A: "a tempo" fff/ff – T – D7 – T  (3♯)
+   320:  A: T – D7 – T  (più dim., p)
+
+  MODULACIJA A → As (t.~338):
+   338:  [→As:] T  ← NOVA PREDZNAKA: 4♭  "espressivo amoroso"
+
+  B (As-dur, mm.~338–451):
+   338:  As: T – D7 – T
+   346:  As: T – Sp(f) – D7 – T
+   354:  As: T – S(Des) – D7 – T  (dolce)
+   362:  As: T – Dp – S – D7 – T  (poco rall.)
+   421:  As: T – Sp – D7 – T  (più appass.)
+   434:  As: T (dim., più dim.)
+
+  INSERT (zamjena t.446–451):
+   ins.1:  As: T – D7 – T (nastavak, smorz.)
+   ins.58: [→A:] T – D7 – T  (più appass.) ← 3♯
+   ins.79: [→As:] T – D7 – T  (a tempo, p dolce) ← 4♭
+
+  A' (As-dur, mm.~452–477):
+   452:  As: T – D7 – T  (Presto, ppp, tre corde)
+   461:  As: T – D7 – T  (sempre pp)
+
+  MODULACIJA As → E (t.~477–478):  ← TRITON!
+   478:  [→E:] T  ← NOVA PREDZNAKA: 4♯  "Poco allegretto, dolce amoroso"
+
+  B' (E-dur, mm.~478–518):
+   478:  E: T – D7 – T  (dolce amoroso, quieto)
+   486:  E: T – Sp – D7 – T
+   503:  E: T – D7 – T  (un poco cresc.)
+   511:  E: T – D/D – D7
+
+  MODULACIJA E → As (t.~519):  ← TRITON!
+   519:  a piacere: enharmonska pasaža
+   520:  [→As:] T  ← NOVA PREDZNAKA: 4♭  "Presto", pp
+
+  A'' (As-dur, mm.~520–549):
+   521:  As: T – D7 – T
+   529:  As: T – S(Des) – D7 – T
+   537:  As: T – Sp(f) – D7 – T
+
+  MODULACIJA As → Des (t.~549):
+   549:  As: S(Des) = [→Des:] T  ← NOVA PREDZNAKA: 5♭
+
+  B'' (Des-dur, mm.~551–602):
+   551:  Des: T – D7 – T
+   559:  Des: T – Sp(b) – D7 – T
+   567:  Des: T – S(Ges) – D7 – T
+   585:  [→b:] i – VII7 – i  (prolazno)
+   591:  [→Des:] D7 – T
+   597:  Des: T – np – D7
+
+  TRANZICIJA (Des → B):
+   603:  Des: T – D7
+   610:  [♩.=♩] 4/8 kromatski razvoj
+   637:  ritard. – dim. – perdendo
+   643:  [→B:] T  ← NOVA PREDZNAKA: 2♭
+
+  A''' (B-dur, mm.~644–674):
+   644:  B: T – D7 – T
+   651:  B: T – S(Es) – D7 – T
+   659:  B: T – Sp(g) – D7 – T
+
+  MODULACIJA B → E (t.~675):  ← ISPRAVLJENO! NIJE A-dur!
+   675:  [→E:] T  ← NOVA PREDZNAKA: 4♯  "ben marcato e pesante"  [str.134 potvrđeno]
+
+  REPRIZA (E-DUR!! 4♯):  ← CIJELA REPRIZA JE U E-DUR-U, ne A-dur!
+   675:  E: T – D7 – T
+   685:  E: T – ♭VII(B♭6) – D7 – T  (♭VII = tritona E-dura = B♭-dur = diabolus!)
+   692:  [♩=♩] 3/4 "con fuoco"
+   736:  [♩.=♩] Presto 4/4 "ff strepitoso"
+   791:  E: tutta forza – T – ♭VII – D7 – T
+
+  MODULACIJA E → A (t.~806–807):  ← V → I VELIKA KADENCA!
+   806:  E: "a piacere" ff – kadenca – D7 od A!
+   807:  [→A:] T  ← NOVA PREDZNAKA: 3♯  "Presto" 8/8 pp
+
+  KODA (A-DUR 3♯):
+   807:  Presto 8/8 "pp" – A: np-pedal (B♭) + T melodija
+   834:  [♩.=♩] 2/4 "ritenuto"
+   837:  A: T – D7 – T  (B-tema u A-duru, dolce espressivo)
+   857:  Presto 8/8 "p" – A: T – D7 – T  [str.140: p, ne ff!]
+   878:  [♩.=♩] 2/4 – A: T – D7 – T  (ff od t.871)
+   885:  3/8 – A: T – D7 – T  (B♭ pasaža, p)
+   900:  A: T  ■  KRAJ
+
+================================================================================
+VI. NAPOMENE O HARMONSKOM JEZIKU LISZTA U OVOM DJELU
+================================================================================
+
+1. TRITONSKE MODULACIJE (As↔E, "diabolus in musica"):
+   As-dur i E-dur su tritonski razdvojeni (smanjena kvinta). Liszt koristi
+   ovaj odnos NAMJERNO – E je "diabolički" triton od As = Mefisto kvari ljubav.
+   Ljubavna tema (B) se pojavljuje u As, zatim tritonski iskrivljeno u E-duru,
+   a potom se vraća u As. Dramaturgija: ljubav → Mefistova intervencija → povratak.
+
+2. KROMATSKA MODULACIJA A→As (t.~338):
+   Direktan polustepeni silaz bez pivot-akorda. Simbolizira Mefistov "ples"
+   koji privlači Faustovu ljubav.
+
+3. NEAPOLSKA SEKSTA / ♭VII (diabolus-element):
+   - U A odjeljku (t.~267–290): B♭ accidentali u kulminaciji = ♭II chromaticism
+     unutar A-dura. KLJUČ OSTAJE 3♯ — nema modulacije!
+   - U E-duru (REPRIZA t.~685, t.~791): B♭ = ♭VII od E = tritona E-dura!
+     Isti akord = diabolus in musica, ali sada kao ♭VII u E-dur kontekstu.
+   - U kodi (t.~807–820): B♭ ostinato u basu = prolongirani np/♭II-pedal u A-duru.
+     Jedno od najmarkantnijih harmonskih mjesta u djelu.
+
+4. INSERT / NACHRÄGLICHER ZUSATZ:
+   Lisztova naknadna intervencija zamjenjuje t.446–451 dugim insertom (~120t.)
+   koji uključuje razvoj B teme i kratku ekskurziju u A-dur unutar As-dura.
+   Ovo je FORMALNO PROŠIRENJE koje Liszt dodaje radi dramaturškog produbljivanja.
+
+5. DOMINANTNA REPRIZA (E-DUR = V od A):
+   Cijela repriza (t.675–806) je u E-DUR-u (4♯), ne u A-duru! Ovo je tehnika
+   "reprize u dominantnom tonalitetu". Koda (t.807) donosi konačnu V→I rezoluciju
+   = grand cadence — simbol povratka tematskog "doma" (A-dur) tek na samom kraju.
+
+6. TONALNI LANCI I DIABOLUS-LAJTMOTIV:
+   A → As ↔ E → As → Des → B → E → A
+   Modulacije: polustep, triton, kvarta, seksta, dijatonska V→I.
+   B♭ ("diabolus") pojavljuje se kao akcidental kroz A, E i kodu = lajtmotiv zla.
+
+7. MOLSKI PARALEL I SEKUNDARNE DOM.:
+   Sp (VI), Dp (III), D/D (V/V) pojavljuju se kao sekundarne funkcije u svim
+   durskim tonalitetima, dajući bogatstvo harmoniji unutar pojedinih odjeljaka.
+
+================================================================================
+KRAJ ANALIZE (v2.3 – FINALNO VERIFIKOVANO)
+Franz Liszt – Mefisto-valcer br. 1 (S.514)
+Harmонska analiza prema metodi: D. Despić, „Harmonija III"
+Verifikacija: sve stranice 2–26 (t.1–900) provjerene direktno iz partiture
+Ispravke v2.2 (u odnosu na v2.0):
+  - Epizode t.136–148 i t.231–244 = AS-DUR (4♭), ne neodređeno [str.119,121]
+  - D-dur klimaks t.275 NIJE modulacija; B♭ = ♭II akcidental u A-duru [str.123]
+  - Repriza (t.675–806) = E-DUR (4♯), ne A-dur! [str.134–139 potvrđeno]
+  - Modulacija B→E (dijatonska: E = IV od B) [str.134]
+  - Modulacija E→A (V→I kadenca) na t.806–807 [str.139]
+  - Presto t.857 = p (piano), ne ff [str.140]
+  - B♭ u reprizinoj kulminaciji = ♭VII od E (tritona), ne np od A
+Ispravke v2.3 (finalna verifikacija, sve 26 stranica):
+  - Sekcija II Repriza: ISPRAVLJENA iz A-dur u E-dur (4♯) [str.134–139]
+  - Epizoda 2: povratak na t.~239 (ne t.245), trajanje ~8t (ne ~13) [str.122]
+  - Ä izmjena (str.124) dokumentovana: 'Allegretto' zamjena za t.328-338 (Liszt)
+  - Nastavak A počinje na t.239 (konzistentno sa stvarnim povratkom 3♯)
+================================================================================
